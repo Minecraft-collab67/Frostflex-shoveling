@@ -78,7 +78,7 @@
 <h2>Special Bundles</h2>
 <p>$150 gurantee shoveling month bundle<br>A full driveway, ice melt and steps and sidewalk bundle for the price of 36 dollars 20% off of regular pricing<br>Full snowstrom package<br>$150 snow storm bundle for 1 month</p>
 <h2>How to contact us</h2>
-<p>If you are interested in a service contact us at 647-262-5082</p>
+<p>If you are interested in a service contact us at</p>
 <p>If you have any questions please contact us</p>
 <p>If you are interested in a service please text or call</p>
 </body>
